@@ -1,7 +1,8 @@
 {
   "name": "isosurfaces",
   "description": "isosurfaces for typescript",
-  "version": "2.0.0",
+  "version": "2.0.1",
+  "homepage": "https://github.com/spidunno/isosurfaces-ts",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "devDependencies": {
